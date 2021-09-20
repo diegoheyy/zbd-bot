@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/f7683ca1-f7bd-462c-8832-4fb5997a6d65/resourceGroups/Developments/providers/Microsoft.Web/sites/ssbot",
+    "appService.deploySubpath": "."
+}

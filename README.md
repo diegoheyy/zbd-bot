@@ -1,0 +1,2 @@
+# ssbot
+My Discord Bot
